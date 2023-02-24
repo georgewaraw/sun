@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/sun/static/js/main.27a714d1.js",
+    "static/media/level.glb": "/sun/static/media/level.0a8b96b3fbc12850b4dd.glb",
+    "index.html": "/sun/index.html",
+    "main.27a714d1.js.map": "/sun/static/js/main.27a714d1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27a714d1.js"
+  ]
+}
